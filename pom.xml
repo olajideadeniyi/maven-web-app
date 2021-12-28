@@ -97,7 +97,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.15.39.80:80811/repository/new_jydor_releases/</url>
+	      <url>http://3.15.39.80:8081/repository/new_jydor_releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
